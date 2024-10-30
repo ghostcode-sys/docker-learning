@@ -1,0 +1,429 @@
+Attaching to adminer-1, backend-service-1, postgres_DB
+postgres_DB        | 
+postgres_DB        | PostgreSQL Database directory appears to contain a database; Skipping initialization
+postgres_DB        | 
+backend-service-1  | 
+backend-service-1  | > project@1.0.0 start
+backend-service-1  | > nodemon index.js
+backend-service-1  | 
+backend-service-1  | [33m[nodemon] 3.1.7[39m
+backend-service-1  | [33m[nodemon] to restart at any time, enter `rs`[39m
+backend-service-1  | [33m[nodemon] watching path(s): *.*[39m
+backend-service-1  | [33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+Attaching to adminer-1, backend-service-1, postgres_DB
+postgres_DB        | 
+postgres_DB        | PostgreSQL Database directory appears to contain a database; Skipping initialization
+postgres_DB        | 
+backend-service-1  | 
+backend-service-1  | > project@1.0.0 start
+backend-service-1  | > nodemon index.js
+backend-service-1  | 
+backend-service-1  | [33m[nodemon] 3.1.7[39m
+backend-service-1  | [33m[nodemon] to restart at any time, enter `rs`[39m
+backend-service-1  | [33m[nodemon] watching path(s): *.*[39m
+backend-service-1  | [33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | undefined
+backend-service-1  | connected with database
+backend-service-1  | undefined
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Test query result: { '?column?': 1 }
+backend-service-1  | [ { now: 2024-10-30T09:51:19.698Z } ]
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Connection Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [ { now: 2024-10-30T09:52:26.535Z } ]
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [ { name: 'prashant chandel', age: 22, username: 'prastn12', id: 1 } ]
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | [31m[nodemon] app crashed - waiting for file changes before starting...[39m
+backend-service-1  | [32m[nodemon] restarting due to changes...[39m
+backend-service-1  | [32m[nodemon] starting `node index.js`[39m
+backend-service-1  | GET /v1/user
+backend-service-1  | Listning to port 5000
+backend-service-1  | Connected to the PostgreSQL database
+backend-service-1  | Established
